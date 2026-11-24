@@ -1,7 +1,7 @@
 {
-  "version": "0.3.15",
-  "file": "gigadesk-0.3.15.bin",
-  "sha256": "11b0390f1daab05ffa21fb94a3990f6e201acf78654061075ad565e9977cabe4",
-  "size": 2772992,
-  "signature": "XhqzVj8MuccIXI1Kka4Uy93GRUi22O7PuGCITEO6Z95SDiYFox+jRKdfwwR5IpiqlyMUftwGkteTtpXSfhfhAA=="
+  "version": "0.3.16",
+  "file": "gigadesk-0.3.16.bin",
+  "sha256": "bd218846a07ef59ab62c4dc00ceaa47ba999504ef9cacd76df63d7198d80b6c8",
+  "size": 2792960,
+  "signature": "SoRHeEDHIodUhCJUGDennkvTa6REgb98O9CUF7+1PgjnLfzSW0OZlBxjnV9xra7GZ/ycFgXmeIjshWR28ZHGCg=="
 }
